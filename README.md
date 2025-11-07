@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @maminu-coder
+- 👋 Hi, I’m @maminu-coder (Muhammed Amin Abdullah, PhD)
 - 👀 I’m interested in deep adversarial learning, malware analysis, cyber security and internet of things
-- 🌱 I’m currently learning at the university of electronic science and technology of China. Currently researching on adversarial attacks and preventtion. 
+- 🌱 I'm also into full stack development, where i design and build website with python, PhP, and Javascript, using mangodb, postgresql, etc.
+- 🌱 Currently researching on deep neural networks for malware analysis in the IoTs. This area includes IPS and IDS, Deep Adversarial Networks, Malware Analysis, etc.
+- 🌱 I am opened for collaborations.
 
 
 <!---
