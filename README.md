@@ -37,9 +37,9 @@ My work bridges research and engineering, transforming advanced machine learning
 | :--- | :--- | :--- |
 | - Threat Detection<br>- Malware Analysis<br>- Detection Engineering<br>- Threat Intelligence<br>- SIEM Concepts<br>- DFIR Fundamentals<br>- Security Analytics | - Machine Learning<br>- Deep Learning<br>- Generative AI<br>- Large Language Models<br>- Retrieval-Augmented Generation (RAG)<br>- Explainable AI<br>- Adversarial Machine Learning | - Python Automation<br>- Workflow Orchestration<br>- n8n<br>- API Integration<br>- Incident Response Automation<br>- Security Playbook Automation |
 
-| Cloud & Infrastructure | Programming | |
+| Cloud & Infrastructure | Programming | 
 | :--- | :--- | :--- |
-| - Docker<br>- Linux<br>- PostgreSQL<br>- MongoDB<br>- GitHub<br>- CI/CD | - Python<br>- SQL<br>- JavaScript<br>- PHP<br>- MATLAB | |
+| - Docker<br>- Linux<br>- PostgreSQL<br>- MongoDB<br>- GitHub<br>- CI/CD | - Python<br>- SQL<br>- JavaScript<br>- PHP<br>- MATLAB | 
 
 ### Programming
 - Python
