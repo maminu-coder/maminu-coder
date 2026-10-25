@@ -31,13 +31,9 @@ My work bridges research and engineering, transforming advanced machine learning
 
 ## Technology Stack
 
-| Security Engineering | Artificial Intelligence | Security Automation |
-| :--- | :--- | :--- |
-| - Threat Detection<br>- Malware Analysis<br>- Detection Engineering<br>- Threat Intelligence<br>- SIEM Concepts<br>- DFIR Fundamentals<br>- Security Analytics | - Machine Learning<br>- Deep Learning<br>- Generative AI<br>- Large Language Models<br>- Retrieval-Augmented Generation (RAG)<br>- Explainable AI<br>- Adversarial Machine Learning | - Python Automation<br>- Workflow Orchestration<br>- n8n<br>- API Integration<br>- Incident Response Automation<br>- Security Playbook Automation |
-
-| Cloud & Infrastructure | Programming | 
-| :--- | :--- |
-| - Docker<br>- Linux<br>- PostgreSQL<br>- MongoDB<br>- GitHub<br>- CI/CD | - Python<br>- SQL<br>- JavaScript<br>- PHP<br>- MATLAB | 
+| Security Engineering | Artificial Intelligence | Security Automation | Cloud & Infrastructure | Programming | 
+| :--- | :--- | :--- |:--- | :--- |
+| - Threat Detection<br>- Malware Analysis<br>- Detection Engineering<br>- Threat Intelligence<br>- SIEM Concepts<br>- DFIR Fundamentals<br>- Security Analytics | - Machine Learning<br>- Deep Learning<br>- Generative AI<br>- Large Language Models<br>- Retrieval-Augmented Generation (RAG)<br>- Explainable AI<br>- Adversarial Machine Learning | - Python Automation<br>- Workflow Orchestration<br>- n8n<br>- API Integration<br>- Incident Response Automation<br>- Security Playbook Automation |- Docker<br>- Linux<br>- PostgreSQL<br>- MongoDB<br>- GitHub<br>- CI/CD | - Python<br>- SQL<br>- JavaScript<br>- PHP<br>- MATLAB | 
 
 ---
 ## Featured Projects
