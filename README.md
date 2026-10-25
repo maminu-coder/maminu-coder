@@ -1,6 +1,6 @@
 # 👋🌱 Hi, I'm Dr. Muhammed Amin Abdullah 🌱👋
 
-[![Website](https://img.shields.io/badge/Website-drmaminu.com-blue?style=flat&logo=googlechrome)](https://drmaminu.com/)
+[![🌐Website](https://img.shields.io/badge/Website-drmaminu.com-blue?style=flat&logo=googlechrome)](https://drmaminu.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammed-amin-abdullah-ph-d-442b50142/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=x_3qlisAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Abdullah-Muhammed-Amin-2)
