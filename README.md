@@ -19,16 +19,90 @@ My work bridges research and engineering, transforming advanced machine learning
 * **Generative AI & RAG:** Building knowledge-grounded LLM systems and self-hosted AI applications.
 
 ---
+## What I Do
 
-## 🛠️ Technical Stack & Tools
+✅ AI-Powered Threat Detection
 
-* **Languages:** Python, JavaScript, PHP, MATLAB, SQL, HTML/CSS
-* **Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-Learn, MLflow, RAG
-* **Cybersecurity & Networking:** Malware Analysis, Intrusion Detection (IDS/IPS), DFIR, Cloud Security
-* **Web & Infrastructure:** Docker, PostgreSQL, MongoDB, Git/GitHub, Linux/Unix
+✅ Security Automation & Orchestration
+
+✅ Malware Detection & Analysis
+
+✅ Network Intrusion Detection Systems
+
+✅ Applied Machine Learning for Cybersecurity
+
+✅ LLM & Retrieval-Augmented Generation (RAG)
+
+✅ Detection Engineering
+
+✅ Python-Based Security Solutions
+
+✅ Cybersecurity Research & Engineering
 
 ---
 
+## Technology Stack
+
+### Security Engineering
+- Threat Detection
+- Malware Analysis
+- Detection Engineering
+- Threat Intelligence
+- SIEM Concepts
+- DFIR Fundamentals
+- Security Analytics
+
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Explainable AI
+- Adversarial Machine Learning
+
+### Security Automation
+- Python Automation
+- Workflow Orchestration
+- n8n
+- API Integration
+- Incident Response Automation
+- Security Playbook Automation
+
+### Cloud & Infrastructure
+- Docker
+- Linux
+- PostgreSQL
+- MongoDB
+- GitHub
+- CI/CD
+
+### Programming
+- Python
+- SQL
+- JavaScript
+- PHP
+- MATLAB
+
+---
+## Featured Projects
+
+### AI Security Assistant
+LLM-powered cybersecurity assistant leveraging Retrieval-Augmented Generation (RAG) to support threat investigations, knowledge retrieval, and security operations.
+
+### IoT Malware Detection Platform
+Deep learning-based detection framework for identifying malware targeting resource-constrained IoT devices.
+
+### Intrusion Detection Research Framework
+Machine learning and feature-fusion approaches for accurate network intrusion detection and classification.
+
+### Security Automation Workflows
+Python and automation-first security workflows for investigation, enrichment, and incident-handling processes.
+
+### Knowledge-Based Chatbot
+Custom RAG application trained on domain-specific knowledge sources to provide intelligent question-answering capabilities.
+
+---
 ## 📚 Selected Peer-Reviewed Publications
 
 1. **Deep Learning IoT Malware Analysis: Investigation and Understanding**  
@@ -40,8 +114,19 @@ My work bridges research and engineering, transforming advanced machine learning
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Open to Opportunities
+
+I am interested in:
+
+- AI Security Engineer
+- Security Automation Engineer
+- Detection Engineer
+- Security Research Engineer
+- Threat Detection Engineer
+- Applied AI Engineer (Cybersecurity)
+- Security Data Scientist
+
+🤝 I also welcome opportunities involving intelligent threat detection, AI-driven security operations, malware analysis, security automation, and applied cybersecurity research.
 
 * 📄 **Portfolio & CV:** [drmaminu.com](https://drmaminu.com/)
 * 📧 **Email:** [drmaminu@gmail.com](mailto:drmaminu@gmail.com)
-* 🤝 **Open for:** Academic research collaborations, consulting, and discussions on AI/Cybersecurity.
