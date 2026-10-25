@@ -21,61 +21,25 @@ My work bridges research and engineering, transforming advanced machine learning
 ---
 ## What I Do
 
-✅ AI-Powered Threat Detection
-
-✅ Security Automation & Orchestration
-
-✅ Malware Detection & Analysis
-
-✅ Network Intrusion Detection Systems
-
-✅ Applied Machine Learning for Cybersecurity
-
-✅ LLM & Retrieval-Augmented Generation (RAG)
-
-✅ Detection Engineering
-
-✅ Python-Based Security Solutions
-
-✅ Cybersecurity Research & Engineering
+| | | |
+| :--- | :--- | :--- |
+| ✅ AI-Powered Threat Detection | ✅ Security Automation & Orchestration | ✅ Malware Detection & Analysis |
+| ✅ Network Intrusion Detection Systems | ✅ Applied Machine Learning for Cybersecurity | ✅ LLM & Retrieval-Augmented Generation (RAG) |
+| ✅ Detection Engineering | ✅ Python-Based Security Solutions | ✅ Cybersecurity Research & Engineering |
 
 ---
 
 ## Technology Stack
 
-### Security Engineering
-- Threat Detection
-- Malware Analysis
-- Detection Engineering
-- Threat Intelligence
-- SIEM Concepts
-- DFIR Fundamentals
-- Security Analytics
+## Technology Stack
 
-### Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Explainable AI
-- Adversarial Machine Learning
+| Security Engineering | Artificial Intelligence | Security Automation |
+| :--- | :--- | :--- |
+| - Threat Detection<br>- Malware Analysis<br>- Detection Engineering<br>- Threat Intelligence<br>- SIEM Concepts<br>- DFIR Fundamentals<br>- Security Analytics | - Machine Learning<br>- Deep Learning<br>- Generative AI<br>- Large Language Models<br>- Retrieval-Augmented Generation (RAG)<br>- Explainable AI<br>- Adversarial Machine Learning | - Python Automation<br>- Workflow Orchestration<br>- n8n<br>- API Integration<br>- Incident Response Automation<br>- Security Playbook Automation |
 
-### Security Automation
-- Python Automation
-- Workflow Orchestration
-- n8n
-- API Integration
-- Incident Response Automation
-- Security Playbook Automation
-
-### Cloud & Infrastructure
-- Docker
-- Linux
-- PostgreSQL
-- MongoDB
-- GitHub
-- CI/CD
+| Cloud & Infrastructure | Programming | |
+| :--- | :--- | :--- |
+| - Docker<br>- Linux<br>- PostgreSQL<br>- MongoDB<br>- GitHub<br>- CI/CD | - Python<br>- SQL<br>- JavaScript<br>- PHP<br>- MATLAB | |
 
 ### Programming
 - Python
