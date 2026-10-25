@@ -40,16 +40,12 @@ My work bridges research and engineering, transforming advanced machine learning
 
 ### AI Security Assistant
 LLM-powered cybersecurity assistant leveraging Retrieval-Augmented Generation (RAG) to support threat investigations, knowledge retrieval, and security operations.
-
 ### IoT Malware Detection Platform
 Deep learning-based detection framework for identifying malware targeting resource-constrained IoT devices.
-
 ### Intrusion Detection Research Framework
 Machine learning and feature-fusion approaches for accurate network intrusion detection and classification.
-
 ### Security Automation Workflows
 Python and automation-first security workflows for investigation, enrichment, and incident-handling processes.
-
 ### Knowledge-Based Chatbot
 Custom RAG application trained on domain-specific knowledge sources to provide intelligent question-answering capabilities.
 
