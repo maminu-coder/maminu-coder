@@ -5,7 +5,9 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=x_3qlisAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Abdullah-Muhammed-Amin-2)
 
-👀I am an **AI and Cybersecurity Researcher** (PhD in Software Engineering, UESTC) and **ML Engineer** specializing in deep learning applications for IoT security, network intrusion detection (NIDS), and adversarial machine learning.
+👀I build intelligent security systems that combine artificial intelligence, cybersecurity, automation, and software engineering to improve threat detection, incident response, and operational efficiency.
+
+My work bridges research and engineering, transforming advanced machine learning techniques into practical security solutions for malware analysis, intrusion detection, AI security, and automated cyber defense.
 
 ---
 
